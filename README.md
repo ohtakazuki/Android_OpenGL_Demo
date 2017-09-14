@@ -1,3 +1,5 @@
+ohtakazuki/AndroidでOpenGLのCライブラリを使用する検証用です。
+
 Android OpenGL Demo
 ===================================
 
